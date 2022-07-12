@@ -7,7 +7,7 @@
 
 ### HighLight Repositories
 - [Stock Search][stock search]
-
+- [CPE301 - Embedded System Design][cpe301]
 
 ### Career journey
 #### Frontend Engineer @ ChargerGoGo - Las Vegas, NV. Jun 2022 - Present
