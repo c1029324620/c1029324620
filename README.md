@@ -9,7 +9,7 @@
 
 
 ### Career journey
-#### Frontend Engineer @ ChargerGoGo - Las Vegas, NV. June 2022 - Present
+#### Frontend Engineer @ ChargerGoGo - Las Vegas, NV. Jun 2022 - Present
 #### Associate Embedded Engineer @ ChargerGoGo - Las Vegas, NV. Feb 2022 - Present
 
 ### Connect with me:
