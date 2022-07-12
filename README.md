@@ -15,11 +15,19 @@
 
 ### Connect with me:
 [<img align="left" alt="# | LinkedIn" background-color="blue" color ="blue"  width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br>
+###
+
+### Languages and Tools:
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Empty]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][Empty]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][Empty]
 
 
 [linkedin]: https://www.linkedin.com/in/xianjie-cao-624362198/
 [cpe301]: https://github.com/c1029324620/Mocha
 [stock search]: https://github.com/c1029324620/Red-Eye
+[Empty]: #
 
 <!---
 c1029324620/c1029324620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
