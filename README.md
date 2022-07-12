@@ -9,6 +9,9 @@
 - [Stock Search][stock search]
 - [CPE301 - Embedded System Design][cpe301]
 
+### Learning footprint
+ - [LeetCode][leetcode]
+
 ### Career journey
 #### Frontend Engineer @ ChargerGoGo - Las Vegas, NV. Jun 2022 - Present
 #### Associate Embedded Engineer @ ChargerGoGo - Las Vegas, NV. Feb 2022 - Present
@@ -30,8 +33,6 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][Empty]
 <br>
 
-### Learning footprint
- #### [LeetCode][leecode]
 
 
 
