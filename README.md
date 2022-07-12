@@ -7,7 +7,7 @@
 
 ### HighLight Repositories
 - [Stock Search][stock search]
-- [CPE301 - Embedded System Design][cpe301]
+- [CPE301 - Embedded System Design ** please send me an email for access][cpe301] 
 
 ### Learning footprint
  - [LeetCode][leetcode]
