@@ -6,6 +6,7 @@
 ##
 
 ### HighLight Repositories
+- [Stock Search][stock search]
 
 
 ### Career journey
@@ -18,6 +19,7 @@
 
 [linkedin]: https://www.linkedin.com/in/xianjie-cao-624362198/
 [cpe301]: https://github.com/c1029324620/Mocha
+[stock search]: https://github.com/c1029324620/Red-Eye
 
 <!---
 c1029324620/c1029324620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
