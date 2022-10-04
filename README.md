@@ -13,8 +13,8 @@
  - [LeetCode][leetcode]
 
 ### Career journey
-#### Frontend Engineer @ ChargerGoGo - Las Vegas, NV. Jun 2022 - Present
-#### Associate Embedded Engineer @ ChargerGoGo - Las Vegas, NV. Feb 2022 - Present
+#### Frontend Engineer @ ChargerGoGo - Las Vegas, NV. Jun 2022 - Sep 2022
+#### Associate Embedded Engineer @ ChargerGoGo - Las Vegas, NV. Feb 2022 - Sep 2022
 
 ### Connect with me:
 [<img align="left" alt="# | LinkedIn" background-color="blue" color ="blue"  width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
